@@ -263,6 +263,6 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-Created by **Isaack Mutuma**
+Created by **Christopher Wanyama**
 
 ---
